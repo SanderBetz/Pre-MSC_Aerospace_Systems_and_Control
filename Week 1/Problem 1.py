@@ -11,4 +11,3 @@ mat = np.hstack([mat, columnvector])
 non_zeros = np.count_nonzero(mat)
 
 print(non_zeros)
-
